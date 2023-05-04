@@ -4,8 +4,8 @@ from aiogram import Bot, Dispatcher, executor, types
 import openai
 
 # Set up the bot and OpenAI API credentials
-bot_token = 'TOKEN'
-api_key = 'TOKEN'
+bot_token = '6255953557:AAGH-RyiAqGxWBdMIAWjwySJKuR9PC8T7MM'
+api_key = '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'
 
 logging.basicConfig(level=logging.INFO)
 
